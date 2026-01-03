@@ -3,7 +3,9 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
 
- <hr></hr>
+</div>
+
+<hr></hr>
 
 <h1 align="center">Hi, I'm Sara AL-Mistraihi 👋</h1>
 <h3 align="center">Flutter Developer  💙  </h3>
@@ -37,3 +39,24 @@ class SaraAlMistarihi {
   ];
 }
 ```
+
+---
+
+## 🧰 Tech Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,java,python,vscode,github,figma,git,bash" />
+</p>
+
+
+---
+
+## 🎬 My YouTube Focus
+
+- ✅ **Flutter basics to advanced** (in Arabic)
+- ✅ **Problem-solving** with C++ 
+- ✅ **Real app UIs** with animations
+- ✅ Tips for **VS Code, Git**, and productivity
+- ✅ Free projects and walkthroughs
+
+---
