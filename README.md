@@ -11,9 +11,17 @@
 <h3 align="center">Flutter Developer  💙  </h3>
 
 <p align="center">
-  <a href=""><img src="https://img.shields.io/badge/LinkedIn-Sara%20Mistarihi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href=""><img src="https://img.shields.io/badge/GitHub-Sara%20Mistarihi-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href=""><img src="https://img.shields.io/badge/Portfolio-ComingSoon-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sara-al-mistarihi-04a234332" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Sara%20Mistarihi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/sp-xd" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Sara%20Mistarihi-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="#" title="Portfolio coming soon">
+    <img src="https://img.shields.io/badge/Portfolio-ComingSoon-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </p>
 
 ---
